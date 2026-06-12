@@ -1,5 +1,4 @@
 import React from 'react';
-import { Youtube, Linkedin } from 'lucide-react';
 
 const PagsealLogo = () => (
   <div className="flex items-center">
